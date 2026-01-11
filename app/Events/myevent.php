@@ -19,7 +19,7 @@ class myevent
      */
     public function __construct()
     {
-        //
+        $name="pallavi";
     }
 
     /**
